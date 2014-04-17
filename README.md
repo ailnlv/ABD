@@ -1,4 +1,4 @@
-Litecoin integration/staging tree
+AlvaroDollar integration/staging tree
 ================================
 
 Copyright (c) 2009-2013 Bitcoin Developers
